@@ -36,6 +36,10 @@ streamlit run app.py
 2. hoose the target language from the dropdown menu.
 3. Click the "Translate" button.
 4. The translated text will appear in the adjacent text area.
+
+## Screenshots
+![App Screenshot](demo.png)
+
 ## Authors
 
 - [@phinglaspure123](https://github.com/phinglaspure123)
